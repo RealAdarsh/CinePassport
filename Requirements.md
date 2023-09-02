@@ -1,0 +1,7 @@
+- BookMyShow is a booking app where we could book the movie tickets. 
+- Users can select city. 
+- Users can then select theatre. 
+- Users can then select the show seats. 
+- Show seat is reserved for 10 mins. 
+- In 10 mins, if the user book the ticket, they will get the ticket. 
+- Else the show seat is again set to vaccant. 
